@@ -6,11 +6,11 @@ JAVA
 3. Check if the input is pangram or not. (A pangram is a sentence that contains all the 
 alphabets from A to Z)
 <br>
-JavaScript
+JavaScript<br>
 1. Take a sentence as an input and reverse every word in that sentence. 
 Example - This is a sunny day > shiT si a ynnus yad.
 2. Perform sorting of an array in descending order.<br>
-HTML
+HTML<br>
 1. Create a basic calculator using HTML, CSS, and JavaScript with the functionality of add, 
 subtract, multiply and divide. 
 
